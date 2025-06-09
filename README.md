@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="Linkedin Cover-9.png"  />
+  <img height="200" src="https://i.pinimg.com/736x/2b/2b/f7/2b2bf703c7720452b400fa6667fe27bc.jpg"  />
 </div>
 
 ###
@@ -85,6 +85,10 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/manthan9986/manthan9986/output/snake.svg" alt="Snake animation" />
+
 ###
 
 <div align="center">
@@ -92,9 +96,6 @@
 </div>
 
 ###
-
-<div align="left">
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manthan9986/manthan9986/output/github-snake-dark.svg" />
