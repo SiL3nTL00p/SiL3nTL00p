@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Hello World !! 👋! I'm Manthan, a AI/ML enthusiast</h2>
+<h1 align="left">Hello World !! 👋! I'm Manthan, a AI/ML enthusiast</h1>
 
 ###
 
