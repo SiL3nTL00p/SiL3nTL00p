@@ -53,7 +53,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" weight="45" alt="figma logo"  />
 </div>
 
 ###
