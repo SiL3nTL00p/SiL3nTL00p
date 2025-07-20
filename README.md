@@ -12,11 +12,11 @@
 
 ###
 
-<h3 align="left">Tech Stack</h3>
+
 
 ###
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width="45" />
