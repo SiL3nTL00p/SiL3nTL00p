@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">🎓 Pursuing B.Tech in MEMS  at IIT Bombay<br>🤖 AI Enthusiast with a keen interest in machine learning and intelligent systems<br>🛠️ Passionate about building innovative solutions that blend creativity with technology<br>🚀 Eager to explore the frontiers of AI and contribute to impactful projects</p>
+<p align="left">-- Pursuing B.Tech in MEMS  at IIT Bombay<br>-- AI Enthusiast with a keen interest in machine learning and intelligent systems<br>-- Passionate about building innovative solutions that blend creativity with technology<br>-- Eager to explore the frontiers of AI and contribute to impactful projects</p>
 
 ###
 
