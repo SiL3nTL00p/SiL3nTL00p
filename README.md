@@ -7,9 +7,9 @@
 <h1 align="left">Hello World !! I'm Manthan, a AI/ML enthusiast</h1>
 
 ###
-
-<h2 align="left">Check out my portfoloio website : </h2>
-<a href="https://www.instagram.com/manthan_spryzen/" target="_blank">
+<h2 align="left">Check out my portfolio website : 
+<a href="https://www.instagram.com/manthan_spryzen/" target="_blank"> Here </a>
+</h2>
 
 <p align="left">-- Pursuing B.Tech in MEMS  at IIT Bombay<br>-- AI Enthusiast with a keen interest in machine learning and intelligent systems<br>-- Passionate about building innovative solutions that blend creativity with technology<br>-- Eager to explore the frontiers of AI and contribute to impactful projects</p>
 
@@ -94,5 +94,6 @@
 </picture>
 
 ###
+
 
 
